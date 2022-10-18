@@ -1,0 +1,6 @@
+table:
+LOAD
+    fielda,
+    fieldb
+FROM tablea
+;
